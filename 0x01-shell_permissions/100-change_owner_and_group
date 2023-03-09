@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -h vincent:staff
+chgrp -hR vincent:staff
