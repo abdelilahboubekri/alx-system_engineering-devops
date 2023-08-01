@@ -1,2 +1,1 @@
-#!/bin/bash
-readme
+readme for processes ans signals
